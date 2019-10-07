@@ -4,10 +4,13 @@ All assignments from the BI elective, at CPH business.
 ## Database
 The database is hosted on Microsoft Azure.
 
-Login info
+**Login info**
+Username:
 ```
-**Username:** mwe
-
-**Password:** CPHb0919
+mwe
+```
+Password:
+```
+CPHb0919
 ```
 
