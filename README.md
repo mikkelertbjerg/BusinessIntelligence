@@ -1,10 +1,10 @@
 # BusinessIntelligence
 All assignments from the BI elective, at CPH business.
 
-##Database
+## Database
 The database is hosted on Microsoft Azure.
 
-###Login info
+### Login info
 **Username:** mwe
 **Password:** CPHb0919
 
