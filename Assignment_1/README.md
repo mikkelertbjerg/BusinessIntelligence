@@ -1,3 +1,4 @@
+# BI_Assignment_1
 1. avg_price.txt, price_list.csv, price_list.txt, prices.png
 2. Two text files, a picture and a csv document which stands for comma sepperated values which is rather self explanatory.
 3. The program prints the avg price: 3307228.119047619
