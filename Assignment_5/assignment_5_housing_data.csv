@@ -1,0 +1,633 @@
+address;zip_code;price;sell_date;sell_type;price_per_sq_m;no_rooms;housing_type;size_in_sq_m;year_of_construction;price_change_in_pct;zip_code_num
+Reberbansgade 52, ST;9000 Aalborg;835000;05-10-2015;Alm. Salg;181520;20;Lejlighed;460;18900;-50;9000
+Vesterbro 90, 1. 3;9000 Aalborg;1180000;30-09-2015;Alm. Salg;151280;20;Lejlighed;780;19410;-50;9000
+Svalegårdsvej 29, 2. TH;9000 Aalborg;1800000;16-09-2015;Alm. Salg;200000;40;Lejlighed;900;19770;-50;9000
+Vonsyldsgade 17;9000 Aalborg;2075000;14-09-2015;Alm. Salg;170080;50;Villa;1220;19300;-50;9000
+Kjeldgårdsgade 7;9000 Aalborg;1425000;14-09-2015;Alm. Salg;131940;30;Villa;1080;19110;-50;9000
+Gammel Kærvej 10;9000 Aalborg;4000000;02-09-2015;Alm. Salg;190470;70;Villa;2100;19010;-50;9000
+Parkvej 8, 3. TV;9000 Aalborg;925000;28-08-2015;Alm. Salg;142300;20;Lejlighed;650;19380;-50;9000
+H. C. Andersens Vej 18, ST. TH;9000 Aalborg;640000;19-08-2015;Alm. Salg;92750;20;Lejlighed;690;19670;-50;9000
+Filstedvej 145;9000 Aalborg;2650000;18-08-2015;Alm. Salg;145600;40;Villa;1820;19850;-50;9000
+Haraldsvej 12;9000 Aalborg;1750000;12-08-2015;Alm. Salg;141120;30;Villa;1240;19600;-50;9000
+Sjællandsgade 87, 3. TH;9000 Aalborg;1187500;10-08-2015;Alm. Salg;179920;30;Lejlighed;660;19260;-50;9000
+Sofievej 30F, 2;9000 Aalborg;850000;26-07-2015;Alm. Salg;151780;20;Lejlighed;560;19690;-50;9000
+Skolebakken 6;9000 Aalborg;3600000;21-07-2015;Alm. Salg;327270;40;Villa;1100;19500;-50;9000
+Solbyen 8;9000 Aalborg;3325000;11-07-2015;Alm. Salg;239200;50;Rækkehus;1390;19480;-50;9000
+Vestre Fjordvej 46, 3. TV;9000 Aalborg;950000;08-07-2015;Alm. Salg;163790;20;Lejlighed;580;19380;-50;9000
+Hirsevej 13B;9000 Aalborg;2000000;07-07-2015;Alm. Salg;135130;50;Rækkehus;1480;19570;-50;9000
+Vestre Fjordvej 46, ST. TV;9000 Aalborg;929500;29-06-2015;Alm. Salg;157540;20;Lejlighed;590;19380;-50;9000
+Nordvestvej 2;9000 Aalborg;3800000;29-06-2015;Alm. Salg;180950;60;Rækkehus;2100;19330;-50;9000
+Danmarksgade 69A, 3. TV;9000 Aalborg;950000;26-06-2015;Alm. Salg;161010;20;Lejlighed;590;19120;-50;9000
+Parkvej 2, 3. TH;9000 Aalborg;950000;17-06-2015;Alm. Salg;146150;20;Lejlighed;650;19390;-50;9000
+Danmarksgade 15, 1;9000 Aalborg;1415000;17-06-2015;Alm. Salg;170480;30;Lejlighed;830;19160;-50;9000
+Valdemarsgade 8, 3. TV;9000 Aalborg;1375000;14-06-2015;Alm. Salg;171870;30;Lejlighed;800;19240;-50;9000
+Provstejorden 6, 1. TV;9000 Aalborg;1225000;10-06-2015;Alm. Salg;144110;40;Lejlighed;850;19540;-50;9000
+Hjelmerstald 25;9000 Aalborg;1900000;08-06-2015;Alm. Salg;275360;30;Rækkehus;690;18990;-50;9000
+Østervangsvej 13;9000 Aalborg;2270000;08-06-2015;Alm. Salg;157630;50;Villa;1440;19240;-50;9000
+Deltavej 8;9000 Aalborg;3625000;27-05-2015;Alm. Salg;194890;70;Villa;1860;19940;-50;9000
+Oluf Borchs Vej 7;9000 Aalborg;2350000;19-05-2015;Alm. Salg;225960;30;Villa;1040;19470;-50;9000
+Fasanvej 6;9000 Aalborg;4000000;19-05-2015;Alm. Salg;206180;60;Villa;1940;19350;-50;9000
+Herluf Trolles Gade 32, 1. TV;9000 Aalborg;950000;14-05-2015;Alm. Salg;153220;20;Lejlighed;620;19350;-50;9000
+Toften 42;9000 Aalborg;3600000;13-05-2015;Alm. Salg;206890;70;Villa;1740;19700;-50;9000
+Jernbanegade 10, 2. TV;9000 Aalborg;2230000;29-04-2015;Alm. Salg;171530;40;Lejlighed;1300;18890;-50;9000
+Max Henius Vej 9;9000 Aalborg;3450000;29-04-2015;Alm. Salg;237930;50;Villa;1450;19290;-50;9000
+Sofievej 14B;9000 Aalborg;1800000;29-04-2015;Alm. Salg;128570;40;Villa;1400;19660;-50;9000
+Bernstorffsgade 4;9000 Aalborg;2750000;26-04-2015;Alm. Salg;154490;70;Villa;1780;19340;-50;9000
+Lindskovvej 24;9000 Aalborg;2350000;24-04-2015;Alm. Salg;165490;50;Villa;1420;19720;-50;9000
+Suensonsgade 20, 2. TV;9000 Aalborg;1140000;23-04-2015;Alm. Salg;162850;20;Lejlighed;700;19360;-50;9000
+Vesterbro 33, 3. TV;9000 Aalborg;1000000;16-04-2015;Alm. Salg;166660;20;Lejlighed;600;19160;-50;9000
+B.S. Ingemanns Vej 8;9000 Aalborg;2000000;15-04-2015;Alm. Salg;185180;40;Villa;1080;19650;-50;9000
+Vesterbro 19, 1. TH;9000 Aalborg;1040000;26-03-2015;Alm. Salg;142460;20;Lejlighed;730;19390;-50;9000
+Duebrødrevej 15;9000 Aalborg;3600000;24-03-2015;Alm. Salg;163630;70;Villa;2200;19340;-50;9000
+Edgar Funchs Vej 16;9000 Aalborg;4750000;23-03-2015;Alm. Salg;260980;50;Villa;1820;20070;-50;9000
+Lollandsgade 4, ST. TH;9000 Aalborg;940000;12-03-2015;Alm. Salg;146870;20;Lejlighed;640;19380;-50;9000
+Æblevangen 1;9000 Aalborg;2095000;10-03-2015;Alm. Salg;167600;50;Villa;1250;19710;-50;9000
+Paludan Müllers Vej 18B;9000 Aalborg;2560000;06-03-2015;Alm. Salg;176550;60;Villa;1450;19620;-50;9000
+Danmarksgade 69B, 1;9000 Aalborg;1225000;16-02-2015;Alm. Salg;149390;20;Lejlighed;820;19120;-50;9000
+Skytten 3;9000 Aalborg;2600000;02-02-2015;Alm. Salg;200000;40;Villa;1300;19320;-50;9000
+Tyge Brahes Vej 27, 1;9000 Aalborg;1750000;02-02-2015;Alm. Salg;169900;40;Lejlighed;1030;19190;-50;9000
+Vesterbro 39, 3. TH;9000 Aalborg;1700000;27-01-2015;Alm. Salg;207310;30;Lejlighed;820;19110;-50;9000
+Ågade 25, 4. TH;9000 Aalborg;1320000;26-01-2015;Alm. Salg;155290;30;Lejlighed;850;19010;-50;9000
+Suensonsgade 16, 2. TV;9000 Aalborg;900000;23-01-2015;Alm. Salg;142850;20;Lejlighed;630;19370;-50;9000
+Jernbanegade 18, 2. TV;9000 Aalborg;925000;20-01-2015;Alm. Salg;162280;20;Lejlighed;570;18690;-50;9000
+Korsgade 25, 1. TH;9000 Aalborg;925000;16-01-2015;Alm. Salg;162280;20;Lejlighed;570;19110;-50;9000
+Herluf Trolles Gade 19, 3. TV;9000 Aalborg;950000;14-01-2015;Alm. Salg;143930;20;Lejlighed;660;19390;-50;9000
+Urbansgade 19, 3. TH;9000 Aalborg;1085000;04-01-2015;Alm. Salg;166920;20;Lejlighed;650;19340;-50;9000
+Langelandsgade 6, 1. TH;9000 Aalborg;1000000;03-01-2015;Alm. Salg;163930;20;Lejlighed;610;19370;-50;9000
+Revlingbakken 33, 3. 409;9000 Aalborg;480000;29-12-2015;Alm. Salg;123070;10;Lejlighed;390;19720;-40;9000
+Vesterbro 127, 3. 305;9000 Aalborg;960000;21-12-2015;Alm. Salg;171420;20;Lejlighed;560;19540;-40;9000
+Holbergsgade 17, 4. TH;9000 Aalborg;1375000;03-12-2015;Alm. Salg;199270;20;Lejlighed;690;19100;-40;9000
+Vesterbro 127, 6. 607;9000 Aalborg;1150000;01-12-2015;Fam. Salg;201750;20;Lejlighed;570;19540;-40;9000
+Gammel Strandvej 5, 2. TV;9000 Aalborg;1290000;27-11-2015;Alm. Salg;201560;20;Lejlighed;640;19390;-40;9000
+Herluf Trolles Gade 32, 3. TV;9000 Aalborg;1235000;21-11-2015;Alm. Salg;220530;20;Lejlighed;560;19350;-40;9000
+Estlandsgade 1, ST. TH;9000 Aalborg;1200000;19-11-2015;Alm. Salg;200000;20;Lejlighed;600;20050;-40;9000
+Vestre Alle 3, 4. TV;9000 Aalborg;1515000;18-11-2015;Alm. Salg;164670;40;Lejlighed;920;19520;-40;9000
+H.A. Brorsons Vej 15;9000 Aalborg;2400000;12-11-2015;Alm. Salg;192000;50;Villa;1250;19640;-40;9000
+Nørregade 6, 1. TH;9000 Aalborg;1340000;24-10-2015;Alm. Salg;219670;10;Lejlighed;610;19000;-40;9000
+Oldenborrevej 16;9000 Aalborg;475000;14-10-2015;Alm. Salg;107950;30;Sommerhus;440;19480;-40;9000
+Vesterbro 127, 2. 207;9000 Aalborg;985000;12-10-2015;Alm. Salg;172800;20;Lejlighed;570;19540;-40;9000
+Sønderbro 37, 2. TV;9000 Aalborg;1395000;11-10-2015;Alm. Salg;183550;30;Lejlighed;760;19420;-40;9000
+Lindskovvej 37;9000 Aalborg;3995000;11-10-2015;Alm. Salg;269930;40;Villa;1480;19420;-40;9000
+Sjællandsgade 44, 3. TV;9000 Aalborg;1820000;06-10-2015;Alm. Salg;202220;20;Lejlighed;900;19360;-40;9000
+Blomstermarken 99, 1. TV;9000 Aalborg;1300000;02-10-2015;Alm. Salg;131310;40;Lejlighed;990;19700;-40;9000
+Kærlundsvej 24, 1;9000 Aalborg;2300000;30-09-2015;Alm. Salg;174240;40;Lejlighed;1320;19300;-40;9000
+Årestrupsvej 12, ST. MF;9000 Aalborg;550000;29-09-2015;Alm. Salg;127900;10;Lejlighed;430;19670;-40;9000
+Ryesgade 53, 1. TH;9000 Aalborg;1010000;28-09-2015;Alm. Salg;190560;20;Lejlighed;530;19280;-40;9000
+Enggårdsgade 4;9000 Aalborg;2300000;24-09-2015;Alm. Salg;221150;40;Villa;1040;19250;-40;9000
+Vesterbro 19B, 1. TH;9000 Aalborg;1245000;21-09-2015;Alm. Salg;175350;20;Lejlighed;710;19380;-40;9000
+Skytten 1A, 2. TV;9000 Aalborg;1540000;15-09-2015;Alm. Salg;132750;40;Lejlighed;1160;19370;-40;9000
+Herluf Trolles Gade 15, ST. TH;9000 Aalborg;760000;14-09-2015;Alm. Salg;158330;10;Lejlighed;480;19370;-40;9000
+Baldersgade 5;9000 Aalborg;2150000;09-09-2015;Alm. Salg;195450;30;Villa;1100;19360;-40;9000
+Lektorvej 93;9000 Aalborg;2200000;09-09-2015;Alm. Salg;130950;50;Villa;1680;19590;-40;9000
+Årestrupsvej 32, 2. TH;9000 Aalborg;800000;08-09-2015;Alm. Salg;96380;30;Lejlighed;830;19670;-40;9000
+Flintevej 25;9000 Aalborg;2400000;30-08-2015;Alm. Salg;181810;40;Rækkehus;1320;19700;-40;9000
+Søndergade 7, 2. TV;9000 Aalborg;1150000;30-08-2015;Alm. Salg;225490;10;Lejlighed;510;19810;-40;9000
+Jennysvej 11;9000 Aalborg;4200000;28-08-2015;Alm. Salg;248520;60;Villa;1690;19500;-40;9000
+Bøge Alle 6;9000 Aalborg;5750000;25-08-2015;Alm. Salg;359370;60;Villa;1600;19310;-40;9000
+Vendelbogade 7, 2. TV;9000 Aalborg;850000;25-08-2015;Alm. Salg;193180;20;Lejlighed;440;18970;-40;9000
+Vesterbro 98, 3. TV;9000 Aalborg;1175000;20-08-2015;Alm. Salg;192620;20;Lejlighed;610;19500;-40;9000
+Falstersgade 46, 2. TH;9000 Aalborg;903750;19-08-2015;Alm. Salg;161380;20;Lejlighed;560;19320;-40;9000
+Jyllandsgade 5, ST. TV;9000 Aalborg;1100000;18-08-2015;Alm. Salg;177410;20;Lejlighed;620;19150;-40;9000
+Vendsysselgade 2, 3. MF;9000 Aalborg;890000;14-08-2015;Alm. Salg;156140;20;Lejlighed;570;19390;-40;9000
+Finlandsgade 4, 3. TH;9000 Aalborg;1200000;11-08-2015;Alm. Salg;153840;30;Lejlighed;780;19260;-40;9000
+Mispelvej 41;9000 Aalborg;2200000;06-08-2015;Alm. Salg;148640;50;Villa;1480;19700;-40;9000
+Mester Eriks Vej 90;9000 Aalborg;3075000;20-07-2015;Alm. Salg;174710;60;Villa;1760;19340;-40;9000
+Valmuemarken 8;9000 Aalborg;3170000;19-07-2015;Alm. Salg;205840;30;Villa;1540;19530;-40;9000
+Schleppegrellsgade 10;9000 Aalborg;2585000;14-07-2015;Alm. Salg;179510;60;Villa;1440;19230;-40;9000
+Herluf Trolles Gade 17, 3. TV;9000 Aalborg;1190000;10-07-2015;Alm. Salg;220370;20;Lejlighed;540;19350;-40;9000
+Stormgade 6, 3. TV;9000 Aalborg;1350000;06-07-2015;Alm. Salg;184930;30;Lejlighed;730;19290;-40;9000
+Danmarksgade 4, 1. TV;9000 Aalborg;2312500;30-06-2015;Alm. Salg;222350;30;Lejlighed;1040;19350;-40;9000
+Vesterbro 125, 2. 202;9000 Aalborg;840000;26-06-2015;Alm. Salg;150000;20;Lejlighed;560;19540;-40;9000
+Østre Alle 6;9000 Aalborg;1960000;24-06-2015;Alm. Salg;167520;50;Rækkehus;1170;19180;-40;9000
+Johannes Ewalds Vej 6;9000 Aalborg;1584000;24-06-2015;Alm. Salg;186350;30;Rækkehus;850;19610;-40;9000
+Steen Blichers Gade 9, 1;9000 Aalborg;1620000;19-06-2015;Alm. Salg;165300;30;Lejlighed;980;18980;-40;9000
+Kastetvej 15B, 3. 2;9000 Aalborg;1050000;18-06-2015;Alm. Salg;205880;20;Lejlighed;510;19590;-40;9000
+Revlingbakken 32, 2. TH;9000 Aalborg;1050000;12-06-2015;Alm. Salg;116660;40;Lejlighed;900;19680;-40;9000
+Steenstrupsvej 7;9000 Aalborg;4300000;09-06-2015;Alm. Salg;248550;70;Villa;1730;19290;-40;9000
+Max Henius Vej 6;9000 Aalborg;3250000;04-06-2015;Alm. Salg;227270;50;Villa;1430;19300;-40;9000
+Østergravensgade 12, ST. TH;9000 Aalborg;1130000;03-06-2015;Alm. Salg;198240;20;Lejlighed;570;18890;-40;9000
+Anders Borks Vej 4, 1. TV;9000 Aalborg;1430000;01-06-2015;Alm. Salg;210290;20;Lejlighed;680;19300;-40;9000
+Bøgesvinget 42;9000 Aalborg;2500000;29-05-2015;Alm. Salg;192300;50;Villa;1300;20130;-40;9000
+Carl Plougs Vej 10;9000 Aalborg;2695000;28-05-2015;Alm. Salg;177300;40;Villa;1520;19700;-40;9000
+Corfitzvej 2;9000 Aalborg;2695000;19-05-2015;Alm. Salg;242790;40;Villa;1110;19780;-40;9000
+Sofievej 30A, 2;9000 Aalborg;620000;18-05-2015;Alm. Salg;112720;10;Lejlighed;550;19690;-40;9000
+Danmarksgade 4, 2. TV;9000 Aalborg;2205000;09-05-2015;Alm. Salg;212010;40;Lejlighed;1040;19350;-40;9000
+Hindbærvej 17;9000 Aalborg;2260000;05-05-2015;Alm. Salg;161420;60;Villa;1400;19660;-40;9000
+Borgergade 32, 1. TH;9000 Aalborg;1490000;30-04-2015;Alm. Salg;163730;40;Lejlighed;910;19170;-40;9000
+Ny Kastetvej 19A, ST;9000 Aalborg;1675000;23-04-2015;Alm. Salg;170910;30;Lejlighed;980;19320;-40;9000
+Pernillevej 11;9000 Aalborg;2880000;14-04-2015;Alm. Salg;246150;40;Villa;1170;19610;-40;9000
+Abelsvej 19;9000 Aalborg;2100000;03-04-2015;Alm. Salg;194440;30;Villa;1080;19670;-40;9000
+Tovesvej 28;9000 Aalborg;1430000;30-03-2015;Alm. Salg;70440;60;Villa;2030;20160;-40;9000
+Rosenlundsgade 10, 3. TH;9000 Aalborg;1225000;27-03-2015;Alm. Salg;191400;20;Lejlighed;640;19000;-40;9000
+Vesterbro 24, 1. TV;9000 Aalborg;1675000;26-03-2015;Alm. Salg;155090;30;Lejlighed;1080;19330;-40;9000
+Valmuemarken 74;9000 Aalborg;2600000;24-03-2015;Alm. Salg;213110;50;Villa;1220;19480;-40;9000
+Brettevillesgade 11, 1. TV;9000 Aalborg;1050000;23-03-2015;Alm. Salg;223400;20;Lejlighed;470;18780;-40;9000
+Krøyersvej 3;9000 Aalborg;1925000;20-03-2015;Alm. Salg;131840;50;Villa;1460;19590;-40;9000
+Nybrogade 4, 3. MF;9000 Aalborg;1414000;20-03-2015;Alm. Salg;196380;20;Lejlighed;720;19960;-40;9000
+Borgmestervænget 10, ST. TV;9000 Aalborg;962500;18-03-2015;Alm. Salg;163130;20;Lejlighed;590;19390;-40;9000
+Leonorevej 5C;9000 Aalborg;3130000;17-03-2015;Alm. Salg;228460;40;Villa;1370;19840;-40;9000
+Alfavej 27;9000 Aalborg;2725000;17-03-2015;Alm. Salg;208010;40;Villa;1310;19880;-40;9000
+Europa Plads 4A, 2. TH;9000 Aalborg;1145000;17-03-2015;Alm. Salg;161260;20;Lejlighed;710;19320;-40;9000
+Vestre Alle 7, 3. TH;9000 Aalborg;1680000;16-03-2015;Alm. Salg;146080;50;Lejlighed;1150;19550;-40;9000
+Bejsebakkevej 91;9000 Aalborg;2675000;15-03-2015;Alm. Salg;121040;80;Villa;2210;19650;-40;9000
+Blomstermarken 117, 1. TH;9000 Aalborg;1300000;07-10-2015;Alm. Salg;131310;40;Lejlighed;990;19700;-30;9000
+Bygaden 24A, 1;9000 Aalborg;2700000;05-10-2015;Alm. Salg;146730;50;Lejlighed;1840;19060;-30;9000
+Rantzausgade 20, ST. MF;9000 Aalborg;1445000;01-10-2015;Alm. Salg;197940;30;Lejlighed;730;18940;-30;9000
+Borgergade 6, 4. TH;9000 Aalborg;2305000;29-09-2015;Alm. Salg;169480;40;Lejlighed;1360;18970;-30;9000
+Poul Paghs Gade 29, ST. TH;9000 Aalborg;945000;28-09-2015;Alm. Salg;168750;20;Lejlighed;560;19100;-30;9000
+Ågade 21, 1. TH;9000 Aalborg;2025000;24-09-2015;Alm. Salg;222520;30;Lejlighed;910;18980;-30;9000
+Østerbro 29E, 2. TH;9000 Aalborg;2425000;24-09-2015;Alm. Salg;247440;30;Lejlighed;980;20130;-30;9000
+Vesterbro 98, 2. TV;9000 Aalborg;1114000;23-09-2015;Alm. Salg;182620;20;Lejlighed;610;19500;-30;9000
+Estlandsgade 1, 3. MF;9000 Aalborg;1315250;22-09-2015;Alm. Salg;215610;20;Lejlighed;610;20050;-30;9000
+Annebergvej 21, 2. 4;9000 Aalborg;1160000;21-09-2015;Alm. Salg;203500;20;Lejlighed;570;18900;-30;9000
+Islandsgade 17, ST. TH;9000 Aalborg;1035000;18-09-2015;Alm. Salg;150000;20;Lejlighed;690;19260;-30;9000
+Vestre Alle 7, 4. TH;9000 Aalborg;1540000;10-09-2015;Alm. Salg;140000;50;Lejlighed;1100;19550;-30;9000
+Grønnegade 34, 1;9000 Aalborg;970000;10-09-2015;Alm. Salg;167240;20;Lejlighed;580;19040;-30;9000
+Klokkestabelen 60;9000 Aalborg;2800000;06-09-2015;Alm. Salg;250000;40;Rækkehus;1120;19880;-30;9000
+Skipper Clements Gade 1, 1. TH;9000 Aalborg;1750000;01-09-2015;Alm. Salg;184210;30;Lejlighed;950;19120;-30;9000
+H. C. Andersens Vej 26, 1. MF;9000 Aalborg;715000;01-09-2015;Alm. Salg;132400;20;Lejlighed;540;19670;-30;9000
+Schleppegrellsgade 67, 3. TH;9000 Aalborg;1650000;25-08-2015;Alm. Salg;181310;30;Lejlighed;910;19330;-30;9000
+Niels Ebbesens Gade 12A, 3. TV;9000 Aalborg;1350000;24-08-2015;Alm. Salg;214280;20;Lejlighed;630;19100;-30;9000
+Kayerødsgade 9, 1. TV;9000 Aalborg;800000;21-08-2015;Alm. Salg;200000;20;Lejlighed;400;18810;-30;9000
+Bakkevænget 3;9000 Aalborg;3600000;19-08-2015;Alm. Salg;191480;50;Villa;1880;19730;-30;9000
+Brettevillesgade 5, 3. TH;9000 Aalborg;1155000;18-08-2015;Alm. Salg;251080;20;Lejlighed;460;18880;-30;9000
+Solbyen 29;9000 Aalborg;2800000;18-08-2015;Alm. Salg;254540;50;Rækkehus;1100;19480;-30;9000
+Norgesgade 20, 1. TV;9000 Aalborg;1450000;14-08-2015;Alm. Salg;201380;30;Lejlighed;720;19200;-30;9000
+Sjællandsgade 44, 2. TV;9000 Aalborg;1042500;09-08-2015;Alm. Salg;165470;20;Lejlighed;630;19360;-30;9000
+Rafns Alle 5;9000 Aalborg;11550000;05-08-2015;Alm. Salg;345800;70;Villa;3340;19180;-30;9000
+Rostrupsvej 9, ST;9000 Aalborg;2525000;04-08-2015;Alm. Salg;341210;30;Lejlighed;740;19220;-30;9000
+Solbyen 28;9000 Aalborg;3400000;31-07-2015;Alm. Salg;309090;40;Rækkehus;1100;19480;-30;9000
+Prinsensgade 39, 1. TH;9000 Aalborg;1065000;28-07-2015;Alm. Salg;152140;20;Lejlighed;700;19370;-30;9000
+Hasserisvej 116, 1. TH;9000 Aalborg;3185000;26-07-2015;Alm. Salg;292200;30;Lejlighed;1090;19000;-30;9000
+Ritavej 25;9000 Aalborg;1850000;24-07-2015;Alm. Salg;166660;40;Villa;1110;19650;-30;9000
+Sofievej 238, 3;9000 Aalborg;1165000;21-07-2015;Alm. Salg;130890;20;Lejlighed;890;19630;-30;9000
+Riishøjsvej 16, 2. TH;9000 Aalborg;1250000;21-07-2015;Alm. Salg;192300;20;Lejlighed;650;19770;-30;9000
+Platanvej 3;9000 Aalborg;3760000;21-07-2015;Alm. Salg;221170;60;Villa;1700;19600;-30;9000
+Vendsysselgade 24, 1. TV;9000 Aalborg;1063000;18-07-2015;Alm. Salg;177160;20;Lejlighed;600;19510;-30;9000
+Hobrovej 58, 4. TH;9000 Aalborg;1545000;12-07-2015;Alm. Salg;167930;40;Lejlighed;920;19520;-30;9000
+Nordens Huse 11;9000 Aalborg;3200000;06-07-2015;Alm. Salg;231880;40;Villa;1380;19950;-30;9000
+Toften 10;9000 Aalborg;3100000;03-07-2015;Alm. Salg;191350;50;Villa;1620;19760;-30;9000
+Stuhrs Brygge 19, 1. TH;9000 Aalborg;2575000;02-07-2015;Alm. Salg;238420;30;Lejlighed;1080;20050;-30;9000
+Nørregade 14, 2;9000 Aalborg;2290000;30-06-2015;Alm. Salg;210090;20;Lejlighed;1090;18890;-30;9000
+Ritavej 23;9000 Aalborg;1600000;28-06-2015;Alm. Salg;155330;40;Villa;1030;19370;-30;9000
+Peder Skrams Gade 5, ST. TV;9000 Aalborg;1250000;26-06-2015;Alm. Salg;198410;20;Lejlighed;630;19340;-30;9000
+Kirkegårdsgade 2, 2. TH;9000 Aalborg;1160000;16-06-2015;Alm. Salg;200000;20;Lejlighed;580;19110;-30;9000
+Haraldsvej 9;9000 Aalborg;1650000;16-06-2015;Alm. Salg;130950;40;Villa;1260;19510;-30;9000
+Sverigesgade 11, 1. TV;9000 Aalborg;1550000;11-06-2015;Alm. Salg;218300;30;Lejlighed;710;19180;-30;9000
+Østre Alle 11, 1;9000 Aalborg;1500000;11-06-2015;Alm. Salg;166660;20;Lejlighed;900;19200;-30;9000
+Kastetvej 52, ST. TV;9000 Aalborg;1055000;08-06-2015;Alm. Salg;164840;30;Lejlighed;640;19280;-30;9000
+Ryes Passage 4, ST. TH;9000 Aalborg;1885000;03-06-2015;Alm. Salg;285600;30;Lejlighed;660;19150;-30;9000
+Fyrrebakken 16, ST. TH;9000 Aalborg;1448000;03-06-2015;Alm. Salg;195670;30;Lejlighed;740;19590;-30;9000
+Peder Skrams Gade 5, 1. TH;9000 Aalborg;1215000;03-06-2015;Alm. Salg;178670;20;Lejlighed;680;19340;-30;9000
+Danmarksgade 27A, 2;9000 Aalborg;3398000;29-05-2015;Alm. Salg;167380;60;Lejlighed;2030;18990;-30;9000
+Danmarksgade 77, ST. TV;9000 Aalborg;1180000;25-05-2015;Alm. Salg;157330;20;Lejlighed;750;18960;-30;9000
+Hasserisvej 291A;9000 Aalborg;4080000;19-05-2015;Alm. Salg;240000;50;Villa;1700;20020;-30;9000
+Metavej 10;9000 Aalborg;2175000;17-05-2015;Alm. Salg;159920;50;Villa;1360;19750;-30;9000
+Rantzausgade 20, 1. TV;9000 Aalborg;1350000;15-05-2015;Alm. Salg;173070;30;Lejlighed;780;18940;-30;9000
+Nældevej 3;9000 Aalborg;1940000;06-05-2015;Alm. Salg;139560;70;Villa;1390;19620;-30;9000
+Egholmsgade 2, 4. MF;9000 Aalborg;1650000;04-05-2015;Alm. Salg;170100;40;Lejlighed;970;19000;-30;9000
+Louisegade 16, 1. TV;9000 Aalborg;1400000;29-04-2015;Alm. Salg;208950;30;Lejlighed;670;18950;-30;9000
+Oldfuxvej 16;9000 Aalborg;5050000;24-04-2015;Alm. Salg;218610;70;Villa;2310;19680;-30;9000
+Sønderbro 19, 1. TV;9000 Aalborg;1065000;24-04-2015;Alm. Salg;186840;20;Lejlighed;570;19430;-30;9000
+Vingårdsgade 32, 2. TH;9000 Aalborg;1160000;23-04-2015;Alm. Salg;175750;20;Lejlighed;660;19310;-30;9000
+Reberbansgade 62, ST. TH;9000 Aalborg;1120000;17-04-2015;Alm. Salg;238290;30;Lejlighed;470;18960;-30;9000
+Vestre Fjordvej 32, 4. TV;9000 Aalborg;725000;16-04-2015;Alm. Salg;185890;20;Lejlighed;390;19390;-30;9000
+Reberbansgade 13B, 1. TV;9000 Aalborg;1225000;16-04-2015;Alm. Salg;182830;30;Lejlighed;670;19000;-30;9000
+Christiansgade 17, 1;9000 Aalborg;1675000;08-04-2015;Alm. Salg;145650;40;Lejlighed;1150;18900;-30;9000
+Golfhaven 4, 3. TH;9000 Aalborg;2350000;07-04-2015;Alm. Salg;207960;30;Lejlighed;1130;20130;-30;9000
+Rundvejen 11;9000 Aalborg;1930000;01-04-2015;Alm. Salg;137850;40;Villa;1400;19370;-30;9000
+Valmuemarken 4;9000 Aalborg;2907500;29-03-2015;Alm. Salg;206200;50;Villa;1410;19550;-30;9000
+Åvangen 8;9000 Aalborg;2425000;29-03-2015;Alm. Salg;240090;40;Villa;1010;19500;-30;9000
+Vestre Fjordvej 46, 2. TV;9000 Aalborg;875000;26-03-2015;Alm. Salg;148300;20;Lejlighed;590;19380;-30;9000
+Th. Sauers Vej 13F;9000 Aalborg;1785000;25-03-2015;Alm. Salg;198330;40;Rækkehus;900;19540;-30;9000
+Østre Kanalgade 18, 2. TV;9000 Aalborg;2764500;17-03-2015;Alm. Salg;246830;40;Lejlighed;1120;19960;-30;9000
+Hadsundvej 86H, 1. TV;9000 Aalborg;1155000;13-03-2015;Alm. Salg;131250;40;Lejlighed;880;19690;-30;9000
+Holbergsgade 24, 3. TH;9000 Aalborg;1300000;12-03-2015;Alm. Salg;144440;30;Lejlighed;900;19120;-30;9000
+Søndergade 24, ST. TV;9000 Aalborg;1450000;11-03-2015;Alm. Salg;204220;30;Lejlighed;710;19050;-30;9000
+Jeppevej 3;9000 Aalborg;2725000;10-03-2015;Alm. Salg;212890;30;Villa;1280;19610;-30;9000
+Lillisvej 10;9000 Aalborg;4475000;10-03-2015;Alm. Salg;298330;80;Villa;1500;19530;-30;9000
+Lektorvej 50;9000 Aalborg;2600000;06-03-2015;Alm. Salg;178080;60;Villa;1460;19600;-30;9000
+Hadsundvej 86G, 1. TH;9000 Aalborg;1240000;04-03-2015;Alm. Salg;140900;40;Lejlighed;880;19690;-30;9000
+Solbyen 32;9000 Aalborg;3585000;03-03-2015;Alm. Salg;325900;60;Rækkehus;1100;19490;-30;9000
+Østerbro 57, ST. TV;9000 Aalborg;970000;23-02-2015;Alm. Salg;151560;20;Lejlighed;640;19340;-30;9000
+Vestre Fjordvej 46, 2. TH;9000 Aalborg;875000;18-02-2015;Alm. Salg;148300;20;Lejlighed;590;19380;-30;9000
+Poul Paghs Gade 27, 1. TH;9000 Aalborg;1015000;13-02-2015;Alm. Salg;169160;20;Lejlighed;600;19100;-30;9000
+Østerbro 70, 2. TV;9000 Aalborg;1160000;13-02-2015;Alm. Salg;148710;30;Lejlighed;780;19250;-30;9000
+Ullavej 36;9000 Aalborg;1650000;08-02-2015;Alm. Salg;148640;40;Rækkehus;1110;19660;-30;9000
+Boulevarden 35, 1;9000 Aalborg;1450000;07-02-2015;Alm. Salg;185890;30;Lejlighed;780;18950;-30;9000
+Ninavej 34;9000 Aalborg;1600000;06-02-2015;Alm. Salg;142850;40;Rækkehus;1120;19650;-30;9000
+Vingårdsgade 27, 4. TV;9000 Aalborg;1750000;05-02-2015;Alm. Salg;147050;30;Lejlighed;1190;19270;-30;9000
+Borgergade 25, 1. TH;9000 Aalborg;1700000;28-01-2015;Alm. Salg;212500;30;Lejlighed;800;19080;-30;9000
+Borgmestervænget 1, 2. TH;9000 Aalborg;1705000;28-01-2015;Alm. Salg;187360;30;Lejlighed;910;19300;-30;9000
+Borgmestervænget 1, 3. TV;9000 Aalborg;1800000;26-01-2015;Alm. Salg;200000;30;Lejlighed;900;19300;-30;9000
+Danmarksgade 82, ST. TH;9000 Aalborg;1205000;26-01-2015;Alm. Salg;150620;30;Lejlighed;800;18960;-30;9000
+Samsøgade 21, 2. TH;9000 Aalborg;1075000;22-09-2015;Alm. Salg;170630;20;Lejlighed;630;19490;-20;9000
+Væverensvej 5;9000 Aalborg;2850000;16-09-2015;Alm. Salg;247820;60;Villa;1150;19350;-20;9000
+Løkkegade 17, 1. TH;9000 Aalborg;785000;14-09-2015;Alm. Salg;167020;20;Lejlighed;470;18980;-20;9000
+Danmarksgade 80, 4;9000 Aalborg;2250000;14-09-2015;Alm. Salg;178570;40;Lejlighed;1260;19030;-20;9000
+Mariendalsvej 13;9000 Aalborg;2345000;13-09-2015;Alm. Salg;144750;50;Villa;1620;19230;-20;9000
+Revlingbakken 99, ST. TV;9000 Aalborg;730000;09-09-2015;Alm. Salg;140380;20;Lejlighed;520;19720;-20;9000
+Østerbro 29D, 2. TH;9000 Aalborg;2945000;25-08-2015;Alm. Salg;239430;30;Lejlighed;1230;20130;-20;9000
+Fyrrebakken 20, ST. TH;9000 Aalborg;1270000;24-08-2015;Alm. Salg;222800;20;Lejlighed;570;19590;-20;9000
+Løkkegade 15, 2. TV;9000 Aalborg;1465000;23-08-2015;Alm. Salg;187820;30;Lejlighed;780;18980;-20;9000
+Jyllandsgade 15, 1. TH;9000 Aalborg;1420000;21-08-2015;Alm. Salg;175300;30;Lejlighed;810;19120;-20;9000
+Provstejorden 7, 1. TH;9000 Aalborg;875000;20-08-2015;Alm. Salg;81010;40;Lejlighed;1080;19600;-20;9000
+Vesterbro 29C, ST;9000 Aalborg;1715000;18-08-2015;Alm. Salg;188460;20;Lejlighed;910;18950;-20;9000
+John F. Kennedys Plads 4, 3. TH;9000 Aalborg;2925000;17-08-2015;Alm. Salg;208920;30;Lejlighed;1400;19070;-20;9000
+Hadsundvej 86B, 2. TH;9000 Aalborg;1200000;16-08-2015;Alm. Salg;136360;40;Lejlighed;880;19690;-20;9000
+Hadsundvej 63, 1;9000 Aalborg;1545000;15-08-2015;Alm. Salg;151470;30;Lejlighed;1020;19280;-20;9000
+Heibergsvej 2;9000 Aalborg;2250000;13-08-2015;Alm. Salg;229590;40;Villa;980;19550;-20;9000
+Falstersgade 27, 2. TV;9000 Aalborg;1465000;12-08-2015;Alm. Salg;203470;30;Lejlighed;720;19200;-20;9000
+Jyllandsgade 7, 1. TH;9000 Aalborg;1175000;12-08-2015;Alm. Salg;192620;20;Lejlighed;610;19150;-20;9000
+Schleppegrellsgade 50, 2. TH;9000 Aalborg;1468000;11-08-2015;Alm. Salg;164940;30;Lejlighed;890;19300;-20;9000
+Bøgesvinget 32;9000 Aalborg;2600000;11-08-2015;Alm. Salg;200000;40;Villa;1300;20130;-20;9000
+Søndergade 9, 1. TV;9000 Aalborg;1175000;09-08-2015;Alm. Salg;209820;20;Lejlighed;560;18940;-20;9000
+Østerbro 96, 1. TH;9000 Aalborg;1225000;05-08-2015;Alm. Salg;200810;20;Lejlighed;610;19260;-20;9000
+Rosenlundsgade 3, 2. TH;9000 Aalborg;1175000;04-08-2015;Alm. Salg;192620;20;Lejlighed;610;18980;-20;9000
+Nørregade 15A, 1;9000 Aalborg;1620000;31-07-2015;Alm. Salg;200000;30;Lejlighed;810;18740;-20;9000
+Peder Skrams Gade 33, 3. TV;9000 Aalborg;1250000;31-07-2015;Alm. Salg;208330;20;Lejlighed;600;19520;-20;9000
+Søndervangsvej 73;9000 Aalborg;1950000;31-07-2015;Alm. Salg;168100;50;Rækkehus;1160;19660;-20;9000
+Kastetvej 15A, 5. 3;9000 Aalborg;975000;29-07-2015;Alm. Salg;203120;20;Lejlighed;480;19590;-20;9000
+Østre Alle 38, ST. TH;9000 Aalborg;585000;28-07-2015;Alm. Salg;150000;10;Lejlighed;390;19200;-20;9000
+Enggårdsgade 16A, 1. TV;9000 Aalborg;1225000;27-07-2015;Alm. Salg;163330;30;Lejlighed;750;19390;-20;9000
+Mester Eriks Vej 87;9000 Aalborg;3325000;23-07-2015;Alm. Salg;239200;40;Villa;1390;19660;-20;9000
+Årestrupsvej 28, 2. TH;9000 Aalborg;825000;22-07-2015;Alm. Salg;99390;30;Lejlighed;830;19670;-20;9000
+Ågade 25, 3. TV;9000 Aalborg;1710000;21-07-2015;Alm. Salg;159810;40;Lejlighed;1070;19010;-20;9000
+Estlandsgade 11, 3. MF;9000 Aalborg;1000000;20-07-2015;Alm. Salg;212760;20;Lejlighed;470;20050;-20;9000
+Østerbro 94, 2. TH;9000 Aalborg;1275000;20-07-2015;Alm. Salg;182140;30;Lejlighed;700;19260;-20;9000
+Dalsgårdsvej 4;9000 Aalborg;2750000;15-07-2015;Alm. Salg;108690;80;Villa;2530;19520;-20;9000
+Himmerlandsgade 5, 3. TV;9000 Aalborg;1860000;08-07-2015;Alm. Salg;150000;50;Lejlighed;1240;19360;-20;9000
+Vesterbro 90, 3. TV;9000 Aalborg;1120000;02-07-2015;Alm. Salg;133330;20;Lejlighed;840;19410;-20;9000
+Kastanievej 14;9000 Aalborg;4200000;24-06-2015;Alm. Salg;280000;50;Villa;1500;19530;-20;9000
+Christiansgade 24, ST;9000 Aalborg;1100000;21-06-2015;Alm. Salg;192980;20;Lejlighed;570;18980;-20;9000
+Ryesgade 39, ST. TH;9000 Aalborg;1080000;12-06-2015;Alm. Salg;163630;20;Lejlighed;660;19350;-20;9000
+Egholmsgade 4, 1. TH;9000 Aalborg;860000;10-06-2015;Alm. Salg;191110;20;Lejlighed;450;18980;-20;9000
+Nordtoft 21;9000 Aalborg;5400000;04-06-2015;Alm. Salg;308570;50;Villa;1750;19610;-20;9000
+Metavej 3E, ST. TV;9000 Aalborg;1150000;04-06-2015;Alm. Salg;135290;30;Lejlighed;850;19790;-20;9000
+Kong Eriks Vej 11;9000 Aalborg;3925000;01-06-2015;Alm. Salg;246850;40;Villa;1590;19230;-20;9000
+Revlingbakken 33, 8. 908;9000 Aalborg;515000;29-05-2015;Alm. Salg;119760;10;Lejlighed;430;19720;-20;9000
+Suensonsgade 16, 1. TH;9000 Aalborg;975000;18-05-2015;Alm. Salg;154760;20;Lejlighed;630;19370;-20;9000
+Fredericiagade 13E, ST;9000 Aalborg;1470000;18-05-2015;Alm. Salg;196000;20;Lejlighed;750;19890;-20;9000
+Herluf Trolles Gade 15, 2. TV;9000 Aalborg;1170000;15-05-2015;Alm. Salg;185710;20;Lejlighed;630;19370;-20;9000
+Sofievej 156, 2;9000 Aalborg;880000;07-05-2015;Alm. Salg;127530;20;Lejlighed;690;19630;-20;9000
+Svanehøj 5;9000 Aalborg;4200000;22-04-2015;Alm. Salg;235950;60;Villa;1780;20060;-20;9000
+Stormgade 12, 2. TH;9000 Aalborg;1590000;16-04-2015;Alm. Salg;212000;30;Lejlighed;750;20050;-20;9000
+Druevej 12;9000 Aalborg;3900000;15-04-2015;Alm. Salg;213110;60;Villa;1830;19740;-20;9000
+Hasserisgade 5, 4. TV;9000 Aalborg;1470000;09-04-2015;Alm. Salg;213040;20;Lejlighed;690;19380;-20;9000
+Vesterbro 127, 2. 205;9000 Aalborg;825000;04-04-2015;Alm. Salg;147320;20;Lejlighed;560;19540;-20;9000
+Paludan Müllers Vej 2;9000 Aalborg;1950000;01-04-2015;Alm. Salg;156000;40;Villa;1250;19480;-20;9000
+Bygaden 24F;9000 Aalborg;3775000;01-04-2015;Alm. Salg;213270;50;Villa;1770;19980;-20;9000
+Borgmestervænget 10, 4. TV;9000 Aalborg;1275000;01-04-2015;Alm. Salg;212500;40;Lejlighed;600;19390;-20;9000
+Hirsevej 6;9000 Aalborg;1610000;31-03-2015;Alm. Salg;185050;30;Villa;870;19430;-20;9000
+Snerlevej 5, ST. TH;9000 Aalborg;1270000;30-03-2015;Alm. Salg;147670;30;Lejlighed;860;19580;-20;9000
+Finlandsgade 2, 2. TH;9000 Aalborg;1080000;03-02-2015;Alm. Salg;166150;20;Lejlighed;650;19260;-20;9000
+Carsten Hauchs Vej 13;9000 Aalborg;1100000;27-01-2015;Alm. Salg;88000;50;Villa;1250;19470;-20;9000
+Golfbakken 16;9000 Aalborg;2245000;23-01-2015;Alm. Salg;185530;40;Villa;1210;20140;-20;9000
+Thorsens Alle 34;9000 Aalborg;2950000;18-01-2015;Alm. Salg;234120;50;Villa;1260;19650;-20;9000
+Blomstermarken 115, ST. TH;9000 Aalborg;1400000;12-01-2015;Alm. Salg;145830;40;Lejlighed;960;19700;-20;9000
+Thorsens Alle 12A;9000 Aalborg;2150000;12-01-2015;Alm. Salg;159250;50;Rækkehus;1350;20160;-20;9000
+Hasserisvej 99;9000 Aalborg;5400000;09-01-2015;Alm. Salg;490900;70;Villa;1100;18850;-20;9000
+Nybrogade 2, 1. MF;9000 Aalborg;1600000;08-01-2015;Alm. Salg;200000;20;Lejlighed;800;19960;-20;9000
+Jennysvej 7;9000 Aalborg;5550000;31-12-2015;Alm. Salg;303270;60;Villa;1830;19350;-10;9000
+Absalonsgade 17, 1. TH;9000 Aalborg;1235000;18-12-2015;Alm. Salg;212930;20;Lejlighed;580;19390;-10;9000
+Christiansgade 53, 3. MF;9000 Aalborg;1465000;16-12-2015;Alm. Salg;212310;20;Lejlighed;690;19810;-10;9000
+Ågade 21, 2. TH;9000 Aalborg;1985000;11-12-2015;Alm. Salg;218130;30;Lejlighed;910;18980;-10;9000
+Rosenlundsgade 10, 4. TH;9000 Aalborg;1085000;06-12-2015;Alm. Salg;193750;30;Lejlighed;560;19000;-10;9000
+Vesterbro 35, 3. 303;9000 Aalborg;1484000;03-12-2015;Alm. Salg;163070;30;Lejlighed;910;19590;-10;9000
+Vestre Havnepromenade 11A, 1. 3;9000 Aalborg;2275000;02-12-2015;Alm. Salg;255610;30;Lejlighed;890;20020;-10;9000
+Østerågade 18B, 1. 4;9000 Aalborg;1285000;30-11-2015;Alm. Salg;203960;20;Lejlighed;630;16160;-10;9000
+Las Poulsens Vej 40;9000 Aalborg;4249000;29-11-2015;Alm. Salg;265560;40;Rækkehus;1600;18770;-10;9000
+Kayerødsgade 27, 2;9000 Aalborg;1973000;25-11-2015;Alm. Salg;205520;40;Lejlighed;960;19120;-10;9000
+Lektorvej 36;9000 Aalborg;1975000;24-11-2015;Alm. Salg;199490;40;Villa;990;19600;-10;9000
+Vejgård Bymidte 21;9000 Aalborg;1480000;18-11-2015;Alm. Salg;217640;30;Rækkehus;680;19830;-10;9000
+Danmarksgade 68, 1;9000 Aalborg;1505000;11-11-2015;Alm. Salg;231530;30;Lejlighed;650;19870;-10;9000
+Østerbro 57, 2. TV;9000 Aalborg;1090000;30-10-2015;Alm. Salg;170310;20;Lejlighed;640;19340;-10;9000
+Rådsherrevej 8;9000 Aalborg;3860000;23-10-2015;Alm. Salg;218070;50;Villa;1770;19670;-10;9000
+Geskevej 7;9000 Aalborg;2735000;19-10-2015;Alm. Salg;140250;70;Villa;1950;19580;-10;9000
+Skipper Clements Gade 16;9000 Aalborg;2115000;16-10-2015;Alm. Salg;278280;30;Rækkehus;760;18890;-10;9000
+Vesterbro 24, 2. TV;9000 Aalborg;1755000;01-04-2015;Alm. Salg;162500;30;Lejlighed;1080;19330;-10;9000
+Egholmsgade 2, 2. TH;9000 Aalborg;690000;25-03-2015;Alm. Salg;153330;10;Lejlighed;450;19000;-10;9000
+Vendsysselgade 2, 1. TH;9000 Aalborg;965000;25-03-2015;Alm. Salg;158190;20;Lejlighed;610;19390;-10;9000
+Christiansgade 56, 2;9000 Aalborg;1385000;25-03-2015;Alm. Salg;206710;20;Lejlighed;670;19020;-10;9000
+Heimdalsgade 22;9000 Aalborg;2070000;24-03-2015;Alm. Salg;272360;20;Villa;760;19590;-10;9000
+Ryesgade 39, 3. TV;9000 Aalborg;1137000;23-03-2015;Alm. Salg;169700;20;Lejlighed;670;19350;-10;9000
+Kayerødsgade 9, 2. TH;9000 Aalborg;890000;23-03-2015;Alm. Salg;222500;10;Lejlighed;400;18810;-10;9000
+Møensgade 4, ST. TH;9000 Aalborg;1085000;19-03-2015;Alm. Salg;193750;20;Lejlighed;560;19200;-10;9000
+Sankt Jørgens Gade 4, 3. TH;9000 Aalborg;1180000;10-03-2015;Alm. Salg;171010;20;Lejlighed;690;19790;-10;9000
+Vesterbro 35, 4. 403;9000 Aalborg;1425000;08-03-2015;Alm. Salg;158330;30;Lejlighed;900;19590;-10;9000
+Peder Pårs Vej 26;9000 Aalborg;4740000;06-03-2015;Alm. Salg;227880;60;Villa;2080;19650;-10;9000
+Sjællandsgade 83, 2. TV;9000 Aalborg;1330000;05-03-2015;Alm. Salg;177330;30;Lejlighed;750;19260;-10;9000
+Finlandsgade 6, 1. TV;9000 Aalborg;1230000;05-03-2015;Alm. Salg;170830;30;Lejlighed;720;19260;-10;9000
+Fredericiagade 6, ST. TV;9000 Aalborg;1330000;22-02-2015;Alm. Salg;158330;30;Lejlighed;840;19400;-10;9000
+Dybbølgade 5, 4. TH;9000 Aalborg;940000;20-02-2015;Alm. Salg;170900;20;Lejlighed;550;19380;-10;9000
+Samsøgade 27, 4. TV;9000 Aalborg;865000;19-02-2015;Alm. Salg;137300;20;Lejlighed;630;19510;-10;9000
+Urbansgade 21, 3. TH;9000 Aalborg;1425000;15-02-2015;Alm. Salg;203570;20;Lejlighed;700;19340;-10;9000
+Th. Sauers Vej 102;9000 Aalborg;1425000;14-02-2015;Alm. Salg;130730;50;Rækkehus;1090;19870;-10;9000
+Niels Ebbesens Gade 10A, 1;9000 Aalborg;1700000;11-02-2015;Alm. Salg;134920;50;Lejlighed;1260;18900;-10;9000
+Himmerlandsgade 14, 2. TH;9000 Aalborg;1227500;11-02-2015;Alm. Salg;170480;30;Lejlighed;720;19530;-10;9000
+Poul Paghs Gade 6D, 2. TH;9000 Aalborg;1383000;03-02-2015;Alm. Salg;157150;30;Lejlighed;880;19100;-10;9000
+Peder Skrams Gade 1, 3. TH;9000 Aalborg;1080000;30-01-2015;Alm. Salg;168750;20;Lejlighed;640;19360;-10;9000
+Kjeldgårdsgade 5;9000 Aalborg;2715000;12-01-2015;Alm. Salg;193920;40;Villa;1400;18900;-10;9000
+Hermodsgade 22;9000 Aalborg;1925000;05-01-2015;Alm. Salg;157780;40;Villa;1220;19340;-10;9000
+Nordens Huse 5;9000 Aalborg;1450000;31-12-2015;Alm. Salg;81000;50;Villa;1790;18900;0;9000
+Revlingbakken 33, 7. 807;9000 Aalborg;400000;29-12-2015;Alm. Salg;105260;10;Lejlighed;380;19720;0;9000
+Peder Pårs Vej 20;9000 Aalborg;1900000;28-12-2015;Alm. Salg;104390;50;Villa;1820;19650;0;9000
+Hadsundvej 86F, 1. TV;9000 Aalborg;1495000;28-12-2015;Alm. Salg;169880;40;Lejlighed;880;19690;0;9000
+Lektorvej 60;9000 Aalborg;3310000;28-12-2015;Alm. Salg;236420;40;Villa;1400;19600;0;9000
+Oldfuxvej 14;9000 Aalborg;3350000;27-12-2015;Alm. Salg;212020;60;Villa;1580;19650;0;9000
+Poul Buås Vej 28, 2. TH;9000 Aalborg;930000;22-12-2015;Alm. Salg;145310;20;Lejlighed;640;19630;0;9000
+Vestre Fjordvej 46, 3. TH;9000 Aalborg;1925000;22-12-2015;Alm. Salg;331890;20;Lejlighed;580;19380;0;9000
+Harald Jensens Vej 2;9000 Aalborg;2350000;22-12-2015;Alm. Salg;153590;50;Villa;1530;19270;0;9000
+Carit Etlars Gade 5, 1. TV;9000 Aalborg;1139000;21-12-2015;Fam. Salg;207090;20;Lejlighed;550;19000;0;9000
+Holbergsgade 17, 1. TV;9000 Aalborg;739500;21-12-2015;Fam. Salg;96030;30;Lejlighed;770;19100;0;9000
+Hadsundvej 86;9000 Aalborg;1575000;20-12-2015;Andet;100960;40;Villa;1560;19670;0;9000
+Jyllandsgade 15, 4;9000 Aalborg;640000;20-12-2015;Fam. Salg;106660;20;Lejlighed;600;19120;0;9000
+Solbyen 38;9000 Aalborg;3500000;16-12-2015;Alm. Salg;250000;50;Villa;1400;19470;0;9000
+Riishøjsvej 16, 2. TV;9000 Aalborg;1295000;16-12-2015;Alm. Salg;193280;20;Lejlighed;670;19770;0;9000
+Morbærhaven 10;9000 Aalborg;1300000;16-12-2015;Alm. Salg;65320;50;Villa;1990;20170;0;9000
+Heibergsvej 17;9000 Aalborg;1425000;14-12-2015;Alm. Salg;114910;30;Rækkehus;1240;19670;0;9000
+Peder Skrams Gade 35, 4. TH;9000 Aalborg;1349000;14-12-2015;Alm. Salg;240890;20;Lejlighed;560;19520;0;9000
+Vesterbro 33, 1. TV;9000 Aalborg;1099000;13-12-2015;Alm. Salg;183160;20;Lejlighed;600;19160;0;9000
+Gammel Gugvej 23A;9000 Aalborg;2050000;11-12-2015;Andet;119180;50;Villa;1720;19540;0;9000
+Kastetvej 131, 3. TH;9000 Aalborg;450500;11-12-2015;Fam. Salg;76350;20;Lejlighed;590;19370;0;9000
+Christiansgade 9, ST;9000 Aalborg;930000;11-12-2015;Alm. Salg;143070;20;Lejlighed;650;19000;0;9000
+Rømersvej 3;9000 Aalborg;3245000;10-12-2015;Fam. Salg;86530;110;Villa;3750;19350;0;9000
+Rantzausgade 20, ST. TV;9000 Aalborg;1315000;09-12-2015;Alm. Salg;158430;30;Lejlighed;830;18940;0;9000
+Borgmestervænget 3, 2. TH;9000 Aalborg;788000;09-12-2015;Fam. Salg;117610;20;Lejlighed;670;19310;0;9000
+Rantzausgade 37, 2. TV;9000 Aalborg;2895000;09-12-2015;Alm. Salg;186770;40;Lejlighed;1550;19000;0;9000
+Birkevej 26;9000 Aalborg;1480000;08-12-2015;Andet;84570;60;Villa;1750;19710;0;9000
+Morelvej 5;9000 Aalborg;1695000;08-12-2015;Alm. Salg;180310;40;Villa;940;19560;0;9000
+Frejasgade 8;9000 Aalborg;1600000;08-12-2015;Andet;133330;30;Villa;1200;19040;0;9000
+Østerbro 37E, 2;9000 Aalborg;2645000;08-12-2015;Alm. Salg;230000;40;Lejlighed;1150;20160;0;9000
+Estlandsgade 9, 3. MF;9000 Aalborg;999000;07-12-2015;Alm. Salg;212550;20;Lejlighed;470;20050;0;9000
+Estlandsgade 9, 4. MF;9000 Aalborg;999000;07-12-2015;Alm. Salg;212550;20;Lejlighed;470;20050;0;9000
+Islandsgade 5, 1. TV;9000 Aalborg;700000;07-12-2015;Fam. Salg;118640;20;Lejlighed;590;19260;0;9000
+Nørholmsvej 29;9000 Aalborg;2300000;06-12-2015;Alm. Salg;135290;40;Villa;1700;19200;0;9000
+Moltkesvej 3;9000 Aalborg;2400000;05-12-2015;Alm. Salg;163260;60;Villa;1470;19210;0;9000
+Snerlevej 3, 1. TH;9000 Aalborg;1275000;04-12-2015;Alm. Salg;144880;40;Lejlighed;880;19580;0;9000
+Parkvej 20, 2. TV;9000 Aalborg;1095000;04-12-2015;Alm. Salg;163430;20;Lejlighed;670;19380;0;9000
+Vesterå 9, 2. 4;9000 Aalborg;960000;03-12-2015;Alm. Salg;188230;10;Lejlighed;510;19670;0;9000
+Bispensgade 32, 2. TV;9000 Aalborg;1595000;03-12-2015;Alm. Salg;192160;20;Lejlighed;830;19000;0;9000
+Provstejorden 6, ST. TV;9000 Aalborg;488000;02-12-2015;Fam. Salg;57410;30;Lejlighed;850;19540;0;9000
+Frejasgade 6;9000 Aalborg;1600000;01-12-2015;Andet;113470;70;Villa;1410;19570;0;9000
+Oldfuxvej 2;9000 Aalborg;4150000;30-11-2015;Alm. Salg;271240;50;Villa;1530;19650;0;9000
+Duevej 12;9000 Aalborg;2775000;30-11-2015;Alm. Salg;179030;70;Villa;1550;19480;0;9000
+Priorgade 15, 1;9000 Aalborg;1315000;27-11-2015;Fam. Salg;134180;30;Lejlighed;980;18890;0;9000
+Sankelmarksgade 19, 1. TH;9000 Aalborg;1800000;27-11-2015;Fam. Salg;131380;30;Lejlighed;1370;18920;0;9000
+Ferskenvej 6;9000 Aalborg;600000;25-11-2015;Alm. Salg;42250;50;Villa;1420;19740;0;9000
+Kovshøjsvej 15;9000 Aalborg;849000;23-11-2015;Fam. Salg;75800;40;Villa;1120;19250;0;9000
+Strandvejen 3, 6. 3;9000 Aalborg;4225000;23-11-2015;Alm. Salg;306150;30;Lejlighed;1380;20160;0;9000
+Dybbølgade 12, 3. TH;9000 Aalborg;586500;22-11-2015;Fam. Salg;101120;20;Lejlighed;580;19400;0;9000
+Vesterbro 50, 4. TV;9000 Aalborg;1575000;21-11-2015;Alm. Salg;175000;30;Lejlighed;900;19200;0;9000
+Ryesgade 73, 3. TV;9000 Aalborg;1135000;20-11-2015;Alm. Salg;183060;20;Lejlighed;620;19360;0;9000
+Vestre Fjordvej 46, ST. TH;9000 Aalborg;910000;20-11-2015;Alm. Salg;154230;20;Lejlighed;590;19380;0;9000
+Golfhaven 2, ST. TV;9000 Aalborg;1998000;20-11-2015;Alm. Salg;210310;40;Lejlighed;950;20130;0;9000
+Perikumvej 15, 2. TH;9000 Aalborg;487500;17-11-2015;Auktion;88630;10;Lejlighed;550;19690;0;9000
+Østerbro 37A, 4. TV;9000 Aalborg;3395000;17-11-2015;Alm. Salg;247810;40;Lejlighed;1370;20160;0;9000
+Kayerødsgade 27, ST. TV;9000 Aalborg;895000;16-11-2015;Alm. Salg;179000;20;Lejlighed;500;19120;0;9000
+Ny Kastetvej 2, 1. TH;9000 Aalborg;1298000;13-11-2015;Alm. Salg;199690;20;Lejlighed;650;19380;0;9000
+Willemoesgade 5, ST. TV;9000 Aalborg;1150000;12-11-2015;Alm. Salg;191660;20;Lejlighed;600;19340;0;9000
+Østervangsvej 42;9000 Aalborg;655164;12-11-2015;Andet;55050;50;Villa;1190;19380;0;9000
+Brettevillesgade 5, 1. TH;9000 Aalborg;1350000;12-11-2015;Alm. Salg;160710;20;Lejlighed;840;18880;0;9000
+Nørregade 18A, ST. TH;9000 Aalborg;1385000;11-11-2015;Alm. Salg;195070;20;Lejlighed;710;18800;0;9000
+Omegavej 19;9000 Aalborg;1595000;11-11-2015;Alm. Salg;218490;30;Rækkehus;730;19920;0;9000
+Hasserishave 15;9000 Aalborg;1449000;11-11-2015;Alm. Salg;213080;20;Lejlighed;680;19810;0;9000
+Revlingbakken 99, 1. TV;9000 Aalborg;625000;10-11-2015;Alm. Salg;122540;20;Lejlighed;510;19720;0;9000
+Korsgade 42, 1;9000 Aalborg;1025000;10-11-2015;Alm. Salg;205000;20;Lejlighed;500;18970;0;9000
+Dalgasgade 13, 1. TH;9000 Aalborg;1200000;09-11-2015;Alm. Salg;226410;20;Lejlighed;530;19000;0;9000
+Nørregade 19, 2. TH;9000 Aalborg;2100000;09-11-2015;Fam. Salg;109370;50;Lejlighed;1920;18970;0;9000
+Kastetvej 15A, 5. 2;9000 Aalborg;1245000;06-11-2015;Alm. Salg;254080;20;Lejlighed;490;19590;0;9000
+Strandvejen 3, 3. 3;9000 Aalborg;3795000;06-11-2015;Alm. Salg;275000;30;Lejlighed;1380;20160;0;9000
+Snerlevej 11, ST. TH;9000 Aalborg;1150000;05-11-2015;Alm. Salg;133720;30;Lejlighed;860;19580;0;9000
+Thomas Kingos Vej 46;9000 Aalborg;2301000;04-11-2015;Alm. Salg;157600;50;Villa;1460;19700;0;9000
+Østerbro 37D, 4;9000 Aalborg;5500000;04-11-2015;Alm. Salg;308980;40;Lejlighed;1780;20160;0;9000
+Kridtsløjfen 23, 2. 1;9000 Aalborg;2080000;03-11-2015;Alm. Salg;167740;30;Lejlighed;1240;20150;0;9000
+Vesterbro 127, 9. 906;9000 Aalborg;1095000;01-11-2015;Alm. Salg;192100;20;Lejlighed;570;19540;0;9000
+Davids Alle 24;9000 Aalborg;1086000;01-11-2015;Alm. Salg;102450;40;Villa;1060;19100;0;9000
+Østerbro 22, 2. TH;9000 Aalborg;1295000;30-10-2015;Alm. Salg;185000;20;Lejlighed;700;19000;0;9000
+Ryesgade 73, 3. TH;9000 Aalborg;1175000;29-10-2015;Alm. Salg;186500;20;Lejlighed;630;19360;0;9000
+Løkkegade 26, 1;9000 Aalborg;1425000;29-10-2015;Alm. Salg;169640;30;Lejlighed;840;18980;0;9000
+Østre Havnegade 42, 2. TH;9000 Aalborg;6375000;29-10-2015;Alm. Salg;293770;40;Lejlighed;2170;20150;0;9000
+Kærvangs Alle 12;9000 Aalborg;1702000;28-10-2015;Andet;115000;40;Villa;1480;19770;0;9000
+Vingårdsgade 11, 3. TV;9000 Aalborg;1340000;28-10-2015;Alm. Salg;188730;20;Lejlighed;710;19380;0;9000
+Østerbro 37C, 2. TH;9000 Aalborg;2395000;28-10-2015;Alm. Salg;234800;40;Lejlighed;1020;20160;0;9000
+Østerbro 37A, 4. TH;9000 Aalborg;2895000;27-10-2015;Alm. Salg;224410;40;Lejlighed;1290;20160;0;9000
+Islandsgade 15, 1. TH;9000 Aalborg;1295000;26-10-2015;Alm. Salg;185000;30;Lejlighed;700;19260;0;9000
+Tyge Brahes Vej 36A;9000 Aalborg;1445000;25-10-2015;Alm. Salg;249130;20;Lejlighed;580;19190;0;9000
+Brettevillesgade 10C, 1;9000 Aalborg;1300000;24-10-2015;Alm. Salg;216660;20;Lejlighed;600;18800;0;9000
+Østerbro 24, 1. TV;9000 Aalborg;2000000;23-10-2015;Alm. Salg;186910;40;Lejlighed;1070;19280;0;9000
+Revlingbakken 33, 9. 1007;9000 Aalborg;365000;23-10-2015;Alm. Salg;93580;20;Lejlighed;390;19720;0;9000
+Boulevarden 18B, 1;9000 Aalborg;3500000;23-10-2015;Alm. Salg;158370;60;Lejlighed;2210;19160;0;9000
+Blegdalsparken 64;9000 Aalborg;3525000;22-10-2015;Alm. Salg;214930;60;Villa;1640;19690;0;9000
+Schleppegrellsgade 50, 2. TV;9000 Aalborg;900000;22-10-2015;Alm. Salg;136360;20;Lejlighed;660;19300;0;9000
+Fyrrebakken 4, 2;9000 Aalborg;2750000;22-10-2015;Alm. Salg;275000;30;Lejlighed;1000;19590;0;9000
+Sofievej 178, 2;9000 Aalborg;1245000;21-10-2015;Alm. Salg;144760;30;Lejlighed;860;19630;0;9000
+Deltavej 14;9000 Aalborg;3495000;20-10-2015;Alm. Salg;224030;60;Villa;1560;19900;0;9000
+Østerbro 37C, 1. TV;9000 Aalborg;2395000;20-10-2015;Alm. Salg;223830;40;Lejlighed;1070;20160;0;9000
+Tovesvej 26;9000 Aalborg;1995000;19-10-2015;Alm. Salg;181360;50;Villa;1100;19610;0;9000
+Anders Borks Vej 4, 3. TV;9000 Aalborg;1100000;19-10-2015;Alm. Salg;200000;20;Lejlighed;550;19300;0;9000
+Islandsgade 12, 2. TV;9000 Aalborg;1250000;16-10-2015;Alm. Salg;183820;20;Lejlighed;680;19530;0;9000
+Vejgård Bymidte 25;9000 Aalborg;1495000;16-10-2015;Alm. Salg;219850;30;Rækkehus;680;19830;0;9000
+Peder Skrams Gade 11, 2. TV;9000 Aalborg;1395000;16-10-2015;Alm. Salg;208200;20;Lejlighed;670;19380;0;9000
+Myrensvej 7;9000 Aalborg;937435;16-10-2015;Alm. Salg;63340;40;Villa;1480;19290;0;9000
+Sofievej 76A, 2;9000 Aalborg;575000;16-10-2015;Alm. Salg;133720;10;Lejlighed;430;19630;0;9000
+Østre Havnegade 42, 1. TV;9000 Aalborg;5200000;15-10-2015;Alm. Salg;281080;40;Lejlighed;1850;20150;0;9000
+Kastetvej 129, 3. TV;9000 Aalborg;725000;14-10-2015;Alm. Salg;125000;20;Lejlighed;580;19370;0;9000
+Østerbro 91, 3. TV;9000 Aalborg;1000000;14-10-2015;Alm. Salg;158730;20;Lejlighed;630;19340;0;9000
+Kattesundet 15, 1. TH;9000 Aalborg;1145000;13-10-2015;Alm. Salg;204460;20;Lejlighed;560;18700;0;9000
+Strandvejen 3, 4. 4;9000 Aalborg;2695000;13-10-2015;Alm. Salg;266830;30;Lejlighed;1010;20160;0;9000
+Sofievej 118, 1;9000 Aalborg;1000000;12-10-2015;Alm. Salg;116270;30;Lejlighed;860;19630;0;9000
+Boulevarden 23, 3. TV;9000 Aalborg;1232500;12-10-2015;Fam. Salg;97040;50;Lejlighed;1270;18960;0;9000
+Østerbro 37C, 1. TH;9000 Aalborg;2295000;12-10-2015;Alm. Salg;225000;40;Lejlighed;1020;20160;0;9000
+Provstejorden 6, 2. TV;9000 Aalborg;1450000;11-10-2015;Alm. Salg;170580;40;Lejlighed;850;19540;0;9000
+Sankt Jørgens Gade 10, 4. TH;9000 Aalborg;1145000;10-10-2015;Fam. Salg;161260;20;Lejlighed;710;19700;0;9000
+Fredericiagade 15E;9000 Aalborg;1445000;10-10-2015;Alm. Salg;185250;20;Lejlighed;780;19890;0;9000
+Falstersgade 21, ST. TH;9000 Aalborg;1525000;09-10-2015;Alm. Salg;208900;30;Lejlighed;730;19200;0;9000
+Prinsensgade 31, 1. TH;9000 Aalborg;2095000;08-10-2015;Alm. Salg;174580;40;Lejlighed;1200;19110;0;9000
+Vingårdsgade 4, 3. TH;9000 Aalborg;1615000;08-10-2015;Alm. Salg;209740;20;Lejlighed;770;19380;0;9000
+Nørre Tranders Vej 47;9000 Aalborg;1090000;08-10-2015;Fam. Salg;74650;50;Villa;1460;19370;0;9000
+Østerbro 37E, 3. TV;9000 Aalborg;2495000;08-10-2015;Alm. Salg;228890;40;Lejlighed;1090;20160;0;9000
+Hasserisgade 2, 1. TV;9000 Aalborg;980000;06-10-2015;Alm. Salg;134240;30;Lejlighed;730;19340;0;9000
+Vesterbro 127, 1. 106;9000 Aalborg;765000;06-10-2015;Fam. Salg;134210;20;Lejlighed;570;19540;0;9000
+Hadsundvej 21, 1;9000 Aalborg;1598000;06-10-2015;Alm. Salg;164740;30;Lejlighed;970;19000;0;9000
+Niels Ebbesens Gade 12A, 1. TV;9000 Aalborg;1400000;06-10-2015;Alm. Salg;222220;20;Lejlighed;630;19100;0;9000
+Vestre Fjordvej 44, 3. TV;9000 Aalborg;855000;05-10-2015;Fam. Salg;137900;20;Lejlighed;620;19490;0;9000
+Østre Havnegade 42, 9. TV;9000 Aalborg;6500000;05-10-2015;Alm. Salg;351350;40;Lejlighed;1850;20150;0;9000
+Benediktevej 9;9000 Aalborg;3283378;03-10-2015;Alm. Salg;288010;60;Villa;1140;19500;0;9000
+Ny Kærvej 15B;9000 Aalborg;1995000;02-10-2015;Alm. Salg;205670;40;Rækkehus;970;19820;0;9000
+Østerbro 37C, ST;9000 Aalborg;2395000;02-10-2015;Alm. Salg;208260;40;Lejlighed;1150;20160;0;9000
+Kridtsløjfen 21, ST. 1;9000 Aalborg;2175000;01-10-2015;Alm. Salg;211160;30;Lejlighed;1030;20150;0;9000
+Borgergade 24, ST. MF;9000 Aalborg;549000;30-09-2015;Alm. Salg;130710;20;Lejlighed;420;18970;0;9000
+Jægersprisvej 42;9000 Aalborg;610000;30-09-2015;Alm. Salg;69310;30;Stuehus;880;19350;0;9000
+Prinsensgade 33, 4;9000 Aalborg;2050000;29-09-2015;Alm. Salg;170830;20;Lejlighed;1200;19140;0;9000
+Petersborgvej 55;9000 Aalborg;2095000;28-09-2015;Alm. Salg;164960;40;Villa;1270;19210;0;9000
+Strandvejen 3, 7. 4;9000 Aalborg;3195000;28-09-2015;Alm. Salg;316330;30;Lejlighed;1010;20160;0;9000
+Fuglevænget 8;9000 Aalborg;7375000;25-09-2015;Alm. Salg;368750;60;Villa;2000;19270;0;9000
+Østerbro 37C, 3. TV;9000 Aalborg;3695000;24-09-2015;Alm. Salg;324120;40;Lejlighed;1140;20160;0;9000
+Jernbanegade 16D;9000 Aalborg;1100000;24-09-2015;Alm. Salg;171870;20;Lejlighed;640;18690;0;9000
+Østerbro 37C, 2. TV;9000 Aalborg;2495000;23-09-2015;Alm. Salg;233170;40;Lejlighed;1070;20160;0;9000
+Strandvejen 3, 5. 1;9000 Aalborg;3795000;23-09-2015;Alm. Salg;289690;30;Lejlighed;1310;20160;0;9000
+Anneberghøj 8;9000 Aalborg;4520000;22-09-2015;Alm. Salg;188330;80;Villa;2400;19340;0;9000
+Dannebrogsgade 25, 3. TH;9000 Aalborg;1395000;22-09-2015;Alm. Salg;236440;30;Lejlighed;590;18980;0;9000
+Eckersbergsvej 20;9000 Aalborg;1775000;20-09-2015;Alm. Salg;188820;40;Rækkehus;940;19520;0;9000
+Sofievej 222, 3;9000 Aalborg;1075000;20-09-2015;Alm. Salg;120780;20;Lejlighed;890;19630;0;9000
+Bygaden 32D;9000 Aalborg;2650000;18-09-2015;Alm. Salg;222680;40;Rækkehus;1190;19860;0;9000
+Valdemarsgade 11, 1. MF;9000 Aalborg;745000;18-09-2015;Alm. Salg;201350;10;Lejlighed;370;19790;0;9000
+Teglværks Alle 1, ST. TH;9000 Aalborg;1395000;17-09-2015;Alm. Salg;211360;20;Lejlighed;660;19300;0;9000
+Louisegade 4, 2. TV;9000 Aalborg;1175000;17-09-2015;Alm. Salg;230390;20;Lejlighed;510;18970;0;9000
+Hadsundvej 47;9000 Aalborg;1300000;17-09-2015;Andet;80240;50;Villa;1620;19080;0;9000
+Hasserishøj 9;9000 Aalborg;12995000;17-09-2015;Alm. Salg;494100;40;Villa;2630;19620;0;9000
+Strandvejen 3, 8. 2;9000 Aalborg;4295000;17-09-2015;Alm. Salg;308990;30;Lejlighed;1390;20160;0;9000
+Strandvejen 3, 8. 4;9000 Aalborg;3215000;17-09-2015;Alm. Salg;318310;30;Lejlighed;1010;20160;0;9000
+Strandvejen 3, 7. 3;9000 Aalborg;4195000;17-09-2015;Alm. Salg;303980;30;Lejlighed;1380;20160;0;9000
+Strandvejen 3, 8. 3;9000 Aalborg;4295000;17-09-2015;Alm. Salg;311230;30;Lejlighed;1380;20160;0;9000
+Oluf Borchs Vej 3;9000 Aalborg;2498000;16-09-2015;Alm. Salg;195150;60;Villa;1280;19340;0;9000
+Strandvejen 3, 9. 2;9000 Aalborg;11290000;16-09-2015;Alm. Salg;435900;60;Lejlighed;2590;20160;0;9000
+Morbærhaven 19;9000 Aalborg;960000;16-09-2015;Alm. Salg;52740;70;Villa;1820;20170;0;9000
+Vejgård Bymidte 15;9000 Aalborg;948000;15-09-2015;Alm. Salg;231210;20;Rækkehus;410;19820;0;9000
+Rosenlundsgade 3, ST. TV;9000 Aalborg;925000;14-09-2015;Alm. Salg;196800;20;Lejlighed;470;18980;0;9000
+Årestrupsvej 10, 2. MF;9000 Aalborg;650000;14-09-2015;Alm. Salg;120370;20;Lejlighed;540;19670;0;9000
+Herluf Trolles Gade 13, 3. TH;9000 Aalborg;1000000;14-09-2015;Alm. Salg;163930;20;Lejlighed;610;19380;0;9000
+Herluf Trolles Gade 13, 3. TV;9000 Aalborg;1095000;14-09-2015;Alm. Salg;171090;20;Lejlighed;640;19380;0;9000
+Morbærhaven 34;9000 Aalborg;960000;14-09-2015;Alm. Salg;44440;60;Villa;2160;20160;0;9000
+Borgergade 24, 4. TV;9000 Aalborg;1185000;13-09-2015;Alm. Salg;179540;30;Lejlighed;660;18970;0;9000
+Danmarksgade 96, 1. TH;9000 Aalborg;1275000;11-09-2015;Alm. Salg;159370;30;Lejlighed;800;18980;0;9000
+Christiansgade 60, ST;9000 Aalborg;968000;11-09-2015;Alm. Salg;156120;20;Lejlighed;620;19020;0;9000
+Thorsgade 37;9000 Aalborg;3698000;10-09-2015;Alm. Salg;217520;60;Villa;1700;19230;0;9000
+Strandvejen 3, 3. 4;9000 Aalborg;2625000;10-09-2015;Alm. Salg;259900;30;Lejlighed;1010;20160;0;9000
+Eckersbergsvej 4;9000 Aalborg;2500000;09-09-2015;Alm. Salg;204910;50;Rækkehus;1220;19520;0;9000
+Østre Havnegade 50, ST. TV;9000 Aalborg;4700000;28-05-2015;Alm. Salg;276470;40;Lejlighed;1700;20150;0;9000
+Kvædevej 33;9000 Aalborg;2030000;27-05-2015;Alm. Salg;153780;40;Villa;1320;19730;0;9000
+Falstersgade 21, 2. TH;9000 Aalborg;1265000;27-05-2015;Alm. Salg;178160;20;Lejlighed;710;19200;0;9000
+Perikumvej 9, 1. TV;9000 Aalborg;1195000;27-05-2015;Alm. Salg;170710;20;Lejlighed;700;19680;0;9000
+Korsgade 25, ST. TV;9000 Aalborg;925000;27-05-2015;Alm. Salg;154160;20;Lejlighed;600;19110;0;9000
+Vestre Alle 1, 3. TH;9000 Aalborg;1545000;26-05-2015;Alm. Salg;159270;40;Lejlighed;970;19520;0;9000
+Årestrupsvej 16, ST. TV;9000 Aalborg;725000;26-05-2015;Alm. Salg;76310;40;Lejlighed;950;19670;0;9000
+Reberbansgade 47B, 3. TV;9000 Aalborg;1050000;26-05-2015;Alm. Salg;238630;20;Lejlighed;440;19080;0;9000
+Nørholmsvej 34;9000 Aalborg;4411000;26-05-2015;Auktion;220550;70;Villa;2000;20080;0;9000
+Carit Etlars Gade 10, 1. TH;9000 Aalborg;399000;26-05-2015;Alm. Salg;102300;10;Lejlighed;390;19350;0;9000
+Glentevej 29;9000 Aalborg;1595000;26-05-2015;Alm. Salg;166140;40;Rækkehus;960;19620;0;9000
+Schleppegrellsgade 67, 2. TH;9000 Aalborg;1250000;26-05-2015;Alm. Salg;127550;30;Lejlighed;980;19330;0;9000
+Kærlundsvej 24, ST;9000 Aalborg;2400000;25-05-2015;Alm. Salg;181810;30;Lejlighed;1320;19300;0;9000
+Rosenlundsgade 10, 2. TH;9000 Aalborg;1295000;24-05-2015;Alm. Salg;202340;30;Lejlighed;640;19000;0;9000
+Sjællandsgade 85, 1. TH;9000 Aalborg;1595000;22-05-2015;Alm. Salg;209860;30;Lejlighed;760;19260;0;9000
+Corfitzvej 7;9000 Aalborg;2850000;22-05-2015;Alm. Salg;222650;40;Villa;1280;19650;0;9000
+Hvepsevej 17;9000 Aalborg;400000;22-05-2015;Fam. Salg;51940;20;Sommerhus;770;19690;0;9000
+Vejgård Bymidte 63;9000 Aalborg;1730000;22-05-2015;Alm. Salg;184040;30;Rækkehus;940;19830;0;9000
+Vesterbro 49, 4. TH;9000 Aalborg;980000;21-05-2015;Fam. Salg;95140;30;Lejlighed;1030;19340;0;9000
+Revlingbakken 105, ST. TH;9000 Aalborg;605000;21-05-2015;Alm. Salg;112030;20;Lejlighed;540;19720;0;9000
+Christiansgade 48, ST. TV;9000 Aalborg;1245000;21-05-2015;Alm. Salg;239420;20;Lejlighed;520;18980;0;9000
+Kong Hans Gade 11, 2. TV;9000 Aalborg;1395000;20-05-2015;Alm. Salg;176580;30;Lejlighed;790;19840;0;9000
+Alfavej 22;9000 Aalborg;2955000;20-05-2015;Alm. Salg;242210;40;Villa;1220;19860;0;9000
+Brohusgade 9, 4. TH;9000 Aalborg;2312500;18-05-2015;Alm. Salg;243420;30;Lejlighed;950;19960;0;9000
+Himmerlandsgade 3, 1. TH;9000 Aalborg;715000;18-05-2015;Alm. Salg;110000;20;Lejlighed;650;19360;0;9000
+Nytorv 3, 2. 5;9000 Aalborg;2500000;18-05-2015;Alm. Salg;171230;30;Lejlighed;1460;19000;0;9000
+Østre Havnegade 44, 5. TH;9000 Aalborg;2800000;18-05-2015;Alm. Salg;264150;30;Lejlighed;1060;20150;0;9000
+Alfred Munkholms Vej 24;9000 Aalborg;4995000;15-05-2015;Alm. Salg;268540;50;Villa;1860;20070;0;9000
+Lundsgårdsgade 7;9000 Aalborg;2095000;12-05-2015;Alm. Salg;167600;40;Villa;1250;19490;0;9000
+Østre Havnegade 52, 4. MF;9000 Aalborg;4400000;12-05-2015;Alm. Salg;289470;30;Lejlighed;1520;20150;0;9000
+Herluf Trolles Gade 7, 4. TV;9000 Aalborg;990000;11-05-2015;Alm. Salg;165000;20;Lejlighed;600;19390;0;9000
+Malurtvej 23, 2. TV;9000 Aalborg;1450000;11-05-2015;Alm. Salg;164770;40;Lejlighed;880;19710;0;9000
+Købkesvej 68;9000 Aalborg;1845000;11-05-2015;Alm. Salg;174050;30;Rækkehus;1060;19620;0;9000
+Spinderensvej 9;9000 Aalborg;3595000;09-05-2015;Alm. Salg;210230;50;Villa;1710;19330;0;9000
+Brohusgade 9, 2. TV;9000 Aalborg;2495000;08-05-2015;Alm. Salg;242230;30;Lejlighed;1030;19960;0;9000
+Lundbyesgade 4;9000 Aalborg;1280000;08-05-2015;Alm. Salg;109400;50;Villa;1170;19080;0;9000
+Årestrupsvej 10, 1. TV;9000 Aalborg;1098000;07-05-2015;Alm. Salg;127670;30;Lejlighed;860;19670;0;9000
+Revlingbakken 95, 1. TH;9000 Aalborg;685000;07-05-2015;Alm. Salg;137000;20;Lejlighed;500;19720;0;9000
+Vibevej 15;9000 Aalborg;863000;07-05-2015;Alm. Salg;48750;50;Villa;1770;19500;0;9000
+Betavej 14;9000 Aalborg;1600000;07-05-2015;Fam. Salg;93560;60;Villa;1710;19900;0;9000
+Østre Havnegade 42, 3. TH;9000 Aalborg;6510000;07-05-2015;Alm. Salg;300000;40;Lejlighed;2170;20150;0;9000
+Østre Havnegade 52, ST. MF;9000 Aalborg;3900000;07-05-2015;Alm. Salg;256570;30;Lejlighed;1520;20150;0;9000
+Revlingbakken 17, ST. TV;9000 Aalborg;595000;06-05-2015;Alm. Salg;87500;20;Lejlighed;680;19690;0;9000
+Lillisvej 20;9000 Aalborg;4300000;05-05-2015;Alm. Salg;225130;50;Villa;1910;19580;0;9000
+Kastetvej 15B, 2. 2;9000 Aalborg;935000;05-05-2015;Alm. Salg;190810;20;Lejlighed;490;19590;0;9000
+Brettevillesgade 11, 1. TH;9000 Aalborg;1050000;05-05-2015;Alm. Salg;175000;30;Lejlighed;600;18780;0;9000
+Golfhaven 3, ST. TV;9000 Aalborg;18000000;05-05-2015;Alm. Salg;1894730;30;Lejlighed;950;20160;0;9000
+Østre Havnegade 42, 4. TH;9000 Aalborg;6725000;05-05-2015;Alm. Salg;309900;40;Lejlighed;2170;20150;0;9000
+Klokkestøbergade 13;9000 Aalborg;2995000;04-05-2015;Alm. Salg;249580;20;Villa;1200;19740;0;9000
+Danmarksgade 69A, 2. TV;9000 Aalborg;990000;04-05-2015;Fam. Salg;167790;20;Lejlighed;590;19120;0;9000
+Samsøgade 27, 2. TH;9000 Aalborg;1055000;04-05-2015;Alm. Salg;152890;20;Lejlighed;690;19510;0;9000
+Estlandsgade 9, 4. TV;9000 Aalborg;870000;01-05-2015;Alm. Salg;185100;20;Lejlighed;470;20050;0;9000
+Gammel Strandvej 7, 2. TH;9000 Aalborg;1390000;01-05-2015;Alm. Salg;173750;30;Lejlighed;800;19390;0;9000
+Østre Havnegade 52, 8. MF;9000 Aalborg;4900000;01-05-2015;Alm. Salg;322360;30;Lejlighed;1520;20150;0;9000
+Heimdalsgade 18;9000 Aalborg;2098000;30-04-2015;Alm. Salg;199800;30;Villa;1050;19080;0;9000
+Helgolandsgade 17, 2. TH;9000 Aalborg;1150000;30-04-2015;Alm. Salg;188520;30;Lejlighed;610;18980;0;9000
+Omegavej 9;9000 Aalborg;1200000;30-04-2015;Alm. Salg;196720;20;Rækkehus;610;19920;0;9000
+Østre Havnegade 46, 3. TH;9000 Aalborg;2650000;30-04-2015;Alm. Salg;257280;30;Lejlighed;1030;20150;0;9000
+Østre Havnegade 44, ST. TV;9000 Aalborg;2800000;30-04-2015;Alm. Salg;205880;40;Lejlighed;1360;20150;0;9000
+Bispensgade 32A, 1;9000 Aalborg;1545000;29-04-2015;Alm. Salg;175560;30;Lejlighed;880;19000;0;9000
+Oberst Myhres Vej 11;9000 Aalborg;840135;28-04-2015;Fam. Salg;75010;50;Villa;1120;19620;0;9000
+Østerbro 24, 3. TV;9000 Aalborg;1898000;27-04-2015;Alm. Salg;186070;40;Lejlighed;1020;19280;0;9000
+Tyge Brahes Vej 37;9000 Aalborg;2745000;27-04-2015;Alm. Salg;209540;60;Rækkehus;1310;19190;0;9000
+Østre Havnegade 42, 5. TV;9000 Aalborg;5800000;27-04-2015;Alm. Salg;313510;40;Lejlighed;1850;20150;0;9000
+Omegavej 53;9000 Aalborg;1225000;24-04-2015;Alm. Salg;200810;20;Rækkehus;610;19920;0;9000
+Vendelbogade 17, 4. TH;9000 Aalborg;2460000;23-04-2015;Alm. Salg;195230;40;Lejlighed;1260;19370;0;9000
+Ny Kastetvej 2, 1. TV;9000 Aalborg;1089000;23-04-2015;Alm. Salg;181500;20;Lejlighed;600;19380;0;9000
+Østre Havnegade 46, 2. TH;9000 Aalborg;2550000;23-04-2015;Alm. Salg;247570;30;Lejlighed;1030;20150;0;9000
+Søndervangsvej 47;9000 Aalborg;1370000;22-04-2015;Alm. Salg;118100;50;Rækkehus;1160;19660;0;9000
+K.E. Færgemanns Vej 15;9000 Aalborg;1195500;22-04-2015;Fam. Salg;64620;50;Villa;1850;20120;0;9000
+Sverigesgade 11, 1. TH;9000 Aalborg;1462500;21-04-2015;Alm. Salg;197630;20;Lejlighed;740;19180;0;9000
+Filippavej 33;9000 Aalborg;2395000;21-04-2015;Alm. Salg;196310;40;Rækkehus;1220;19820;0;9000
+Bispensgade 32A, ST;9000 Aalborg;1545000;20-04-2015;Alm. Salg;175560;30;Lejlighed;880;19000;0;9000
+Petersborgvej 93;9000 Aalborg;1695000;20-04-2015;Alm. Salg;147390;40;Rækkehus;1150;19570;0;9000
+Vesterbro 35, 3. 301;9000 Aalborg;545393;20-04-2015;Fam. Salg;67330;20;Lejlighed;810;19590;0;9000
+Ny Kærvej 31;9000 Aalborg;1026769;20-04-2015;Alm. Salg;67550;30;Villa;1520;19590;0;9000
+Østre Havnegade 44, 1. TV;9000 Aalborg;3000000;20-04-2015;Alm. Salg;220580;40;Lejlighed;1360;20150;0;9000
+Østre Havnegade 42, 4. TV;9000 Aalborg;5650000;20-04-2015;Alm. Salg;305400;40;Lejlighed;1850;20150;0;9000
+Borgmestervænget 12, 4. TV;9000 Aalborg;1250000;19-04-2015;Alm. Salg;208330;20;Lejlighed;600;19390;0;9000
+Istedgade 33, 1. TV;9000 Aalborg;925000;17-04-2015;Alm. Salg;185000;20;Lejlighed;500;19070;0;9000
+Sofievej 196, 2;9000 Aalborg;1145000;17-04-2015;Alm. Salg;148700;20;Lejlighed;770;19630;0;9000
+Golfhaven 4, ST. TH;9000 Aalborg;1799000;17-04-2015;Alm. Salg;189360;30;Lejlighed;950;20130;0;9000
+Østre Havnegade 44, 2. TV;9000 Aalborg;3150000;17-04-2015;Alm. Salg;231610;40;Lejlighed;1360;20150;0;9000
+Kastetvej 15B, 2. 4;9000 Aalborg;870000;16-04-2015;Alm. Salg;174000;20;Lejlighed;500;19590;0;9000
+Sofievej 28A, 1;9000 Aalborg;650000;16-04-2015;Alm. Salg;118180;10;Lejlighed;550;19690;0;9000
+Mariehønevej 20;9000 Aalborg;1050000;16-04-2015;Alm. Salg;90510;30;Sommerhus;1160;19520;0;9000
+Alfavej 32;9000 Aalborg;3225000;16-04-2015;Alm. Salg;195450;50;Villa;1650;19880;0;9000
+Poul Paghs Gade 6C, 2. TH;9000 Aalborg;1300000;16-04-2015;Alm. Salg;194020;20;Lejlighed;670;19020;0;9000
+Thorsgade 40;9000 Aalborg;1307276;16-04-2015;Fam. Salg;96120;40;Villa;1360;19310;0;9000
+Budolfi Plads 3, 2. TV;9000 Aalborg;1587500;15-04-2015;Alm. Salg;145640;30;Lejlighed;1090;19350;0;9000
+Nybrogade 2, 2. TH;9000 Aalborg;1615000;15-04-2015;Alm. Salg;230710;20;Lejlighed;700;19960;0;9000
+Vesterbro 39, 1. TV;9000 Aalborg;1250000;15-04-2015;Alm. Salg;145340;30;Lejlighed;860;19110;0;9000
+Platanvej 21;9000 Aalborg;796715;15-04-2015;Andet;82130;30;Villa;970;19610;0;9000
+Østre Havnegade 44, 4. TV;9000 Aalborg;3450000;15-04-2015;Alm. Salg;253670;40;Lejlighed;1360;20150;0;9000
+Algade 58, 3. TV;9000 Aalborg;2200000;14-04-2015;Alm. Salg;167930;30;Lejlighed;1310;19300;0;9000
+Peder Skrams Gade 15, 2. TV;9000 Aalborg;1700000;14-04-2015;Alm. Salg;204810;30;Lejlighed;830;19360;0;9000
+Østre Havnegade 42, 6. TV;9000 Aalborg;5950000;14-04-2015;Alm. Salg;321620;40;Lejlighed;1850;20150;0;9000
+Malurtvej 23, 1. TV;9000 Aalborg;1250000;13-04-2015;Alm. Salg;142040;40;Lejlighed;880;19710;0;9000
+Vesterbro 125, 2. 203;9000 Aalborg;995000;13-04-2015;Alm. Salg;180900;20;Lejlighed;550;19540;0;9000
+Danmarksgade 5E, 2. TV;9000 Aalborg;1895000;12-01-2015;Alm. Salg;159240;40;Lejlighed;1190;18900;0;9000
+Budolfi Plads 7, 1. TV;9000 Aalborg;1175000;08-01-2015;Alm. Salg;167850;20;Lejlighed;700;19380;0;9000
+Hasserishave 41, 1. 3;9000 Aalborg;1295000;07-01-2015;Alm. Salg;190440;20;Lejlighed;680;19810;0;9000
+Kærvangs Alle 34;9000 Aalborg;1495000;06-01-2015;Alm. Salg;152550;40;Villa;980;19580;0;9000
+Blegdalsparken 45, 2. TH;9000 Aalborg;1534250;05-01-2015;Fam. Salg;112810;40;Lejlighed;1360;19720;0;9000
+Åvangen 15;9000 Aalborg;950000;02-01-2015;Fam. Salg;84820;50;Villa;1120;19630;0;9000
+Ritavej 8;9000 Aalborg;925000;01-01-2015;Alm. Salg;84090;30;Villa;1100;19520;0;9000
+Bellahøj 7;9000 Aalborg;3220000;05-10-2015;Alm. Salg;231650;40;Villa;1390;19770;10;9000
+Østre Alle 32, 2. TH;9000 Aalborg;1515000;19-06-2015;Alm. Salg;199340;30;Lejlighed;760;19200;10;9000
+Borgmestervænget 12, 1. TH;9000 Aalborg;1215000;10-06-2015;Alm. Salg;205930;20;Lejlighed;590;19390;10;9000
+Jens Stoffersens Vej 10;9000 Aalborg;3695000;18-05-2015;Alm. Salg;198650;50;Villa;1860;19720;10;9000
+Carit Etlars Gade 10, ST. TV;9000 Aalborg;1665000;20-03-2015;Alm. Salg;205550;20;Lejlighed;810;19350;10;9000
+Hadsundvej 21, 2;9000 Aalborg;1225000;22-10-2015;Alm. Salg;144110;30;Lejlighed;850;19000;20;9000
+Færøgade 59, 4. TH;9000 Aalborg;1220001;11-09-2015;Alm. Salg;182080;20;Lejlighed;670;19440;20;9000
+Vesterå 22, 3;9000 Aalborg;1225000;11-08-2015;Alm. Salg;139200;40;Lejlighed;880;18970;20;9000
+Østergravensgade 12, 1. TH;9000 Aalborg;1225000;28-07-2015;Alm. Salg;177530;20;Lejlighed;690;18890;20;9000
+Poul Paghs Gade 6B, 1. TH;9000 Aalborg;1216000;17-06-2015;Alm. Salg;181490;20;Lejlighed;670;19020;20;9000
+Herluf Trolles Gade 15, ST. TV;9000 Aalborg;1200000;24-04-2015;Alm. Salg;190470;20;Lejlighed;630;19370;20;9000
+Nybrogade 4, 1. MF;9000 Aalborg;1486000;15-04-2015;Alm. Salg;206380;20;Lejlighed;720;19960;20;9000
+Malurtvej 29, 1. TV;9000 Aalborg;1245000;12-04-2015;Alm. Salg;168240;30;Lejlighed;740;19710;20;9000
+Vesterbro 19B, 2. TH;9000 Aalborg;1330000;20-03-2015;Alm. Salg;187320;20;Lejlighed;710;19380;20;9000
+Mispelvej 26;9000 Aalborg;2130000;16-01-2015;Alm. Salg;136530;60;Villa;1560;19720;20;9000
+Købkesvej 30;9000 Aalborg;1550000;13-10-2015;Alm. Salg;155000;40;Rækkehus;1000;19560;30;9000
+Vesterbro 127, 7. 707;9000 Aalborg;1125000;24-09-2015;Alm. Salg;200890;20;Lejlighed;560;19540;30;9000
+Sønder Alle 26;9000 Aalborg;2150000;15-09-2015;Alm. Salg;200930;40;Villa;1070;19590;30;9000
+Vonsyldsgade 37;9000 Aalborg;2260000;11-08-2015;Alm. Salg;219410;30;Villa;1030;19590;30;9000
+Snerlevej 1, 2. TH;9000 Aalborg;1400000;15-07-2015;Alm. Salg;159090;40;Lejlighed;880;19580;30;9000
+Dybbølgade 7, ST. TV;9000 Aalborg;1110000;18-05-2015;Alm. Salg;185000;20;Lejlighed;600;19380;30;9000
+Sohngårdsholmsvej 17;9000 Aalborg;1560000;15-04-2015;Alm. Salg;114700;40;Villa;1360;19350;40;9000
+Kastetvej 97, 2;9000 Aalborg;1445000;01-04-2015;Alm. Salg;212500;20;Lejlighed;680;19200;40;9000
+Hadsundvej 132, ST. TH;9000 Aalborg;1568000;31-08-2015;Alm. Salg;135170;40;Rækkehus;1160;19100;50;9000
+Klokkestøbergade 12;9000 Aalborg;2185000;13-03-2015;Alm. Salg;303470;20;Rækkehus;720;18200;50;9000
+Knudsgade 7, 2. TV;9000 Aalborg;1480000;11-11-2015;Alm. Salg;208450;30;Lejlighed;710;19790;60;9000
+Fyrrebakken 12, 1;9000 Aalborg;2850000;14-09-2015;Alm. Salg;208020;60;Lejlighed;1370;19590;60;9000
+Islandsgade 10, 3. TV;9000 Aalborg;1420000;09-02-2015;Alm. Salg;169040;30;Lejlighed;840;19530;60;9000
+Ryesgade 49, 2. TH;9000 Aalborg;950000;28-01-2015;Alm. Salg;175920;20;Lejlighed;540;19280;60;9000
